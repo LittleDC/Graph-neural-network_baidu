@@ -5,3 +5,7 @@
 具体可见根目录下的**图神经网络.md**
 
 后面的一些进阶方面的知识因为难度提升有点大，便还没有记录下来，待完善。。。
+
+
+# 课程地址
+https://aistudio.baidu.com/aistudio/education/group/info/1956
